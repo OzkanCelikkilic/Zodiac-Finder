@@ -18,7 +18,7 @@ This project allows users to enter their age and then provides their zodiac sign
 ## How to Run the Project
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ÖzkanCelikkilic/Zodiac-Finder.git
+    git clone https://github.com/OzkanCelikkilic/Zodiac-Finder.git
     ```
 2. Navigate to the project directory:
     ```sh
